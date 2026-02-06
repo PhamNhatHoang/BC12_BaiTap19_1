@@ -1,4 +1,4 @@
-package baiTap19_1_2026;
+package baiTap_buoi3;
 
 import java.util.Scanner;
 
